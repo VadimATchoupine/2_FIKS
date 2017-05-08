@@ -1,0 +1,1 @@
+FIKS stands for "Forward and Inverse Kinematics Solution"
